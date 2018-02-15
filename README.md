@@ -1,9 +1,9 @@
 
 # about this repo
 lorem
-#Best practises
+# Best practises
 ipsum
-#Image gallery
+# Image gallery
 mah
-#Async API Data
+# Async API Data
 dude
