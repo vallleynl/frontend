@@ -1,5 +1,4 @@
-
-# about this repo
+# About this repo
 lorem
 # Best practises
 ipsum
