@@ -15,9 +15,9 @@ dude
 Source used: https://www.bizstream.com/blog/december-2016/front-end-best-practices-for-developing-in-kentico
 
 ### 01 - FINDING A HOME FOR OUR FILES
-Platte tekst
+Create a safe place to store and host files and make sure you can return easily to older versions and work in branches.
 
-### 02 - FILE STRUCTURE
+### 02 - ORGANIZED FILE STRUCTURE
 css - For our .scss and CSS files.
 fonts - For our fonts.
 images - For sprites, SVGs, and other iconography. This is not for images added by content admins; those live in the Media Library. 
@@ -39,3 +39,9 @@ _normalize.scss - Styles from the latest version of Normalize.
 _variables.scss - List of Sass variables and their values.
 _global.scss - Global styles, usually site defaults, such as body and paragraph styles.
 style.scss - The file that imports in the modules and gets compiled into CSS.
+
+
+##Zelf
+
+### 06 - Test on slow connections.
+Welke content is belangrijkst en moet eerst geladen worden
